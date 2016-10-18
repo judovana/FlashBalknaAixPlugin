@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<exercises>
+    <exercises-set>
+        <set-defaults>
+            <time>10</time>
+            <pause>10</pause>
+            <iterations>10</iterations>
+            <rest>60</rest>
+        </set-defaults>
+        <exercise>
+            <id>Aix-Biggest-Biggest</id>
+            <names>
+                <name>aix - Biggest-Biggest megahold on top of board</name>
+                <name locale="cs">aix - Největší-Největěí madla na vrchu</name>
+            </names>
+            <images>
+                <image>aix01.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>aix-big-big</id>
+            <names>
+                <name>aix - Big-Big - holes, corners of top row</name>
+                <name locale="cs">aix - Velkej-Velkej - díry, horní řada, rožky</name>
+            </names>
+            <images>
+                <image>aix02.jpg</image>
+            </images>
+            <descriptions>
+                <description>open hang, 4 fingers</description>
+                <description locale="cs">Otevřený úchop, 4 prsty</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>aix-semiconnected</id>
+            <names>
+                <name>aix - semiconnected hold in he middle of central row</name>
+                <name locale="cs">aix - pseudospojený - chyt uprostřed střední řady řady</name>
+            </names>
+            <descriptions>
+                <description>open hang, 4 fingers</description>
+                <description locale="cs">Otevřený úchop, 4 prsty</description>            
+            </descriptions>
+            <images>
+                <image>aix03.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>aix-small-4fingers</id>
+            <names>
+                <name>aix - Small four-finger, middle of bottom line </name>
+                <name locale="cs">aix - Malá čtyřprstovka ve spodní řadě</name>
+            </names>
+            <descriptions>
+                <description>open/semiclosed hang, 4 fingers</description>
+                <description locale="cs">Otevřený/polootevřený úchop, 4 prsty</description>            
+            </descriptions>
+            <images>
+                <image>aix04.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>aix-small-3fingers</id>
+            <names>
+                <name>aix - Small three-finger, corners of bottom line </name>
+                <name locale="cs">aix - Malá tříprstovka, rohy ve spodní řady</name>
+            </names>
+            <descriptions>
+                <description>open/semiclosed/closed hang, 3 fingers</description>
+                <description locale="cs">Otevřený/polootevřený/zavřený úchop, 3 prsty</description>            
+            </descriptions>
+            <images>
+                <image>aix05.jpg</image>
+            </images>
+        </exercise>
+    </exercises-set>
+</exercises>

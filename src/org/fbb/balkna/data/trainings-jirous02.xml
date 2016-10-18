@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trainings>
+    <training>
+        <id>aix-jirous-02</id>
+        <names>
+            <name>aix jirous system 2</name>
+        </names>
+        <descriptions>
+            <description>
+                Its good to start with system 1, an dif you ar bale o finish it, continue with 2 and so on. if you do not finihs it, stay on same!
+                Feel free to modify at will. Generally longer hang then 5s  is incresing endurance strength. 3s with additinal weight are for maximal strength. Whether to hold on open or closed is up to you, but open is much mre safe. Periodical trainin gon closed grip may bring injury.
+                Aix board training program. Static hanging. Aprox workload is 3x per 7 days. The systems are 1(easy)-7(hard).
+                First half, 24 minutes, hold getting smaller, 3 minutes rest, and next 24 minutes, holds getting bigger.
+                Each system starts with warm up on two biggest types of holds.
+                Then goes 3x3x3 hangs, then 3 minutes rests and again 3x3x3 exercise.
+            </description>
+            <description locale="cs">
+                Trénink je dobré začít systémem 1, pokud ho dokážete odviset tak jak je předepsáno můžete příště přejít na systém 2 a takto se pokusit postupnými tréninky propracovat na systém 7. Pokud některý systém neodcvičíte jak je předepsáno, příští trénink tento systém cvicte znovu.
+                Tento trénink si můžete libovolně upravovat a modifikovat podle svých potřeb. Obecně se píše, že vis delší než 5 sekund rozvíjí vytrvalostní sílu v prstech, na maximální sílu v prstech se visí cca 3 sekundy a vetšinou se přidává závaží na opasek. Úchop volte dle možností avšak u otevřeného úchopu je menší riziko zranění prstů.
+                Trénink je sestaven na AIX tréninkovou desku (balknu) PU 1 a jedná se o statické visy.
+                Trénoval jsem přibližně 3x za 7 dní a nijak jinak jsem neposiloval ani nesportoval.
+                Trénink, který zde předkládám se skládá ze sedmi postupných systémů visení 1 – 7.
+                Na balkně využijete pouze pět párů chytů zvýrazněných v obrázcích níže. 
+                První část visení trvá dohromady 24 minut a chyty se postupně zmenšují, následují 3 minuty odpočinku a pak dalších 24 minut visení na postupně se zvětšujících chytech.
+                Každý systém začíná rozvisením na dvou párech chytů, na vrcholových oblinách a velkých chytech pod nimi.
+                Po rozvisení začínáme přikládat pod kotel a visíme na každém páru chytů 3×3 visy což dává včetně odpočinků šest minut při visech „dolů“ za zmenšováním chytů. 
+                Po dovisení první části si dáme tři minuty odpočinku a zahájíme visy „nahoru“ tak abychom úplně nakonec viseli na chytech na kterých jsme začínali. 
+            </description>            
+        </descriptions>
+        <images>
+            <image>logo-aix-2.jpg</image>
+        </images>
+        <exercises>
+            <exercise>
+                <id>Aix-Biggest-Biggest</id>
+                <overrides>
+                    <!--any field from exercise can be overriden here-->
+                    <time>15</time>
+                    <pause>45</pause>
+                    <iterations>3</iterations>
+                    <rest>45</rest>
+                </overrides>
+            </exercise>    
+            <exercise>
+                <id>aix-big-big</id>
+                <overrides>
+                    <!--any field from exercise can be overriden here-->
+                    <time>15</time>
+                    <pause>45</pause>
+                    <iterations>3</iterations>
+                    <rest>45</rest>
+                </overrides>
+            </exercise>
+            <exercises-set count="3">
+                <exercise>
+                    <id>aix-semiconnected</id>
+                    <overrides>
+                        <!--any field from exercise can be overriden here-->
+                        <time>5</time>
+                        <pause>25</pause>
+                        <iterations>2</iterations>
+                        <rest>25</rest>
+                    </overrides>
+                </exercise>  
+                <exercise>
+                    <id>aix-semiconnected</id>
+                    <overrides>
+                        <!--any field from exercise can be overriden here-->
+                        <time>10</time>
+                        <pause>50</pause>
+                        <iterations>1</iterations>
+                        <rest>50</rest>
+                    </overrides>
+                </exercise>  
+            </exercises-set>
+            <exercises-set count="3">
+                <exercise>
+                    <id>aix-small-4fingers</id>
+                    <overrides>
+                        <!--any field from exercise can be overriden here-->
+                        <time>5</time>
+                        <pause>25</pause>
+                        <iterations>2</iterations>
+                        <rest>25</rest>
+                    </overrides>
+                </exercise>  
+                <exercise>
+                    <id>aix-small-4fingers</id>
+                    <overrides>
+                        <!--any field from exercise can be overriden here-->
+                        <time>10</time>
+                        <pause>50</pause>
+                        <iterations>1</iterations>
+                        <rest>50</rest>
+                    </overrides>
+                </exercise>  
+            </exercises-set>
+            <exercises-set count="2">
+                <exercise>
+                    <id>aix-small-3fingers</id>
+                    <overrides>
+                        <!--any field from exercise can be overriden here-->
+                        <time>5</time>
+                        <pause>25</pause>
+                        <iterations>2</iterations>
+                        <rest>25</rest>
+                    </overrides>
+                </exercise>  
+                <exercise>
+                    <id>aix-small-3fingers</id>
+                    <overrides>
+                        <!--any field from exercise can be overriden here-->
+                        <time>10</time>
+                        <pause>50</pause>
+                        <iterations>1</iterations>
+                        <rest>50</rest>
+                    </overrides>
+                </exercise>  
+            </exercises-set>
+            <exercise>
+                <id>aix-small-3fingers</id>
+                <overrides>
+                    <!--any field from exercise can be overriden here-->
+                    <time>5</time>
+                    <pause>25</pause>
+                    <iterations>2</iterations>
+                    <rest>25</rest>
+                </overrides>
+            </exercise>  
+            <exercise>
+                <id>aix-small-3fingers</id>
+                <overrides>
+                    <!--any field from exercise can be overriden here-->
+                    <time>10</time>
+                    <pause>50</pause>
+                    <iterations>1</iterations>
+                    <rest>230</rest><!--3*60+50=180+50-->
+                </overrides>
+            </exercise>  
+            <exercises-set count="3">
+                <exercise>
+                    <id>aix-small-3fingers</id>
+                    <overrides>
+                        <!--any field from exercise can be overriden here-->
+                        <time>5</time>
+                        <pause>25</pause>
+                        <iterations>2</iterations>
+                        <rest>25</rest>
+                    </overrides>
+                </exercise>  
+                <exercise>
+                    <id>aix-small-3fingers</id>
+                    <overrides>
+                        <!--any field from exercise can be overriden here-->
+                        <time>10</time>
+                        <pause>50</pause>
+                        <iterations>1</iterations>
+                        <rest>50</rest>
+                    </overrides>
+                </exercise>  
+            </exercises-set>
+            <exercises-set count="3">
+                <exercise>
+                    <id>aix-small-4fingers</id>
+                    <overrides>
+                        <!--any field from exercise can be overriden here-->
+                        <time>5</time>
+                        <pause>25</pause>
+                        <iterations>2</iterations>
+                        <rest>25</rest>
+                    </overrides>
+                </exercise>
+                <exercise>
+                    <id>aix-small-4fingers</id>
+                    <overrides>
+                        <!--any field from exercise can be overriden here-->
+                        <time>10</time>
+                        <pause>50</pause>
+                        <iterations>1</iterations>
+                        <rest>50</rest>
+                    </overrides>
+                </exercise>
+            </exercises-set>
+            <exercises-set count="3">
+                <exercise>
+                    <id>aix-semiconnected</id>
+                    <overrides>
+                        <!--any field from exercise can be overriden here-->
+                        <time>5</time>
+                        <pause>25</pause>
+                        <iterations>2</iterations>
+                        <rest>25</rest>
+                    </overrides>
+                </exercise>  
+                  <exercise>
+                    <id>aix-semiconnected</id>
+                    <overrides>
+                        <!--any field from exercise can be overriden here-->
+                        <time>10</time>
+                        <pause>50</pause>
+                        <iterations>1</iterations>
+                        <rest>50</rest>
+                    </overrides>
+                </exercise>  
+            </exercises-set>
+            <exercise>
+                <id>aix-big-big</id>
+                <overrides>
+                    <!--any field from exercise can be overriden here-->
+                    <time>15</time>
+                    <pause>45</pause>
+                    <iterations>3</iterations>
+                    <rest>45</rest>
+                </overrides>
+            </exercise>    
+            <exercise>
+                <id>Aix-Biggest-Biggest</id>
+                <overrides>
+                    <!--any field from exercise can be overriden here-->
+                    <time>15</time>
+                    <pause>45</pause>
+                    <iterations>3</iterations>
+                    <rest>45</rest>
+                </overrides>
+            </exercise>
+        </exercises>    
+    </training>
+</trainings>
